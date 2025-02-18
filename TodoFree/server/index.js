@@ -14,7 +14,7 @@ app.use(express.json());
 
 // CORS Configuration with credentials allowed
 app.use(cors({
-  origin: ['http://localhost:5174', 'http://localhost:5173' ,'https://to-do-list-x923-gqhfwk26u-harsh-dangaichs-projects.vercel.app'], // Allow frontend origins
+  origin: ['http://localhost:5174', 'http://localhost:5173' ,'https://todo-mern-frontend-six.vercel.app'], // Allow frontend origins
   methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allow the specific methods
   allowedHeaders: ['Content-Type', 'Authorization'], // Allow necessary headers
   credentials: true, // Allow credentials (cookies, etc.)
