@@ -18,7 +18,7 @@ export const Context = createContext();
 function App() {
   const [isSideBarOpen, setSideBarOpen] = useState(false);
   const [isLogin, setIsLogin] = useState(false);
-  const AppUrl = "https://todomernbackend-iz47.onrender.com";
+  const AppUrl = "https://to-do-list-x923-gqhfwk26u-harsh-dangaichs-projects.vercel.app";
     const [searchContent,setSearchContent] = useState("")
   
   const navigate = useNavigate();
