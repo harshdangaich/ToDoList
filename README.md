@@ -11,6 +11,9 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
 - Password reset functionality.
 - Logout feature for session management.
 
+![image](https://github.com/user-attachments/assets/39faae74-f79b-43b7-af43-bc8f1b32daa2)
+
+
 ### 2. Task Management
 - Create, modify, and delete TODOs.
 - Each TODO contains:
