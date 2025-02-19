@@ -1,7 +1,7 @@
 # TODO Application
 
 ## Overview
-A web-based TODO application that helps users efficiently manage their tasks. Users can create, update, delete, and track their TODOs with various statuses and deadlines. The application also includes authentication features to ensure secure access.
+A web-based TODO application that helps users efficiently manage their tasks. Users can create, update, delete, and track their TODOs with various status and deadlines. The application also includes authentication features to ensure secure access.
 
 ## Features & Functionality
 
