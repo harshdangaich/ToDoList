@@ -12,6 +12,9 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
 - Logout feature for session management.
 
 
+![image](https://github.com/user-attachments/assets/a8868739-4633-42ff-9c5a-6221b1d4067d)
+
+
 ![Screenshot 2025-02-19 130900](https://github.com/user-attachments/assets/614fa0c4-ae48-45d3-bb74-1114fe7a0b45)
 
 
@@ -59,7 +62,8 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
 ### Prerequisites
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/) (if using a database)
+- [MongoDB](https://www.mongodb.com/)
+- [React]
 
 ### Steps to Run Locally
 
@@ -87,20 +91,9 @@ Make sure you have the following installed:
    ```
    The app will be available at `http://localhost:3000/`
 
-## API Endpoints
-
-| Method | Endpoint       | Description                     |
-|--------|--------------|---------------------------------|
-| POST   | `/api/auth/register` | Register a new user         |
-| POST   | `/api/auth/login` | Login user                   |
-| POST   | `/api/auth/reset-password` | Reset password     |
-| GET    | `/api/todos` | Get all TODOs                   |
-| POST   | `/api/todos` | Create a new TODO               |
-| PUT    | `/api/todos/:id` | Update a TODO                |
-| DELETE | `/api/todos/:id` | Delete a TODO                |
 
 ## Technologies Used
-- **Frontend:** React, Tailwind CSS (if applicable)
+- **Frontend:** React, Tailwind CSS 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
@@ -111,12 +104,4 @@ Feel free to submit issues or pull requests. To contribute:
 2. Create a new branch (`feature-branch-name`).
 3. Commit changes and push.
 4. Submit a Pull Request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For questions or suggestions, contact:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your-email@example.com
 
