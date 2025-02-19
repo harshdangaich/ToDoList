@@ -11,7 +11,8 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
 - Password reset functionality.
 - Logout feature for session management.
 
-![image](https://github.com/user-attachments/assets/39faae74-f79b-43b7-af43-bc8f1b32daa2)
+
+
 
 
 ### 2. Task Management
@@ -22,9 +23,10 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
   - Status (ACTIVE, IN_PROGRESS, COMPLETE, EXPIRED)
   - Deadline
 
-**Screenshot:**
-![Task Management](![image](https://github.com/user-attachments/assets/33bff89b-9805-4eb3-97c4-2bc7be011a52)
-)
+  
+
+  ![Screenshot 2025-02-19 131540](https://github.com/user-attachments/assets/d13f36ea-fb2d-4e81-bbc7-6a5269d62820)
+
 
 
 ### 3. Task Status & Expiry
