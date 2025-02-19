@@ -20,7 +20,9 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
   - Deadline
 
 **Screenshot:**
-![Task Management](./screenshots/task_management.png)
+![Task Management](![image](https://github.com/user-attachments/assets/33bff89b-9805-4eb3-97c4-2bc7be011a52)
+)
+
 
 ### 3. Task Status & Expiry
 - Tasks remain **ACTIVE** unless updated.
