@@ -12,6 +12,7 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
 - Logout feature for session management.
 
 
+![Screenshot 2025-02-19 130900](https://github.com/user-attachments/assets/614fa0c4-ae48-45d3-bb74-1114fe7a0b45)
 
 
 
@@ -27,15 +28,19 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
 
   ![Screenshot 2025-02-19 131540](https://github.com/user-attachments/assets/d13f36ea-fb2d-4e81-bbc7-6a5269d62820)
 
+  ![Screenshot 2025-02-19 131309](https://github.com/user-attachments/assets/2514953d-152e-447a-aed6-178d365875b5)
+
+
 
 
 ### 3. Task Status & Expiry
 - Tasks remain **ACTIVE** unless updated.
 - Users can update a TODO's status to **IN_PROGRESS**, **COMPLETE**, etc.
 - If a task is not completed by its deadline, it is automatically marked as **EXPIRED**.
+  
 
-**Screenshot:**
-![Task Status](./screenshots/task_status.png)
+![Screenshot 2025-02-19 130803](https://github.com/user-attachments/assets/1ed81194-3955-44ed-a293-71a6c94fa1d4)
+
 
 ### 4. Viewing & Searching
 - List all TODOs with filtering options.
@@ -44,8 +49,10 @@ A web-based TODO application that helps users efficiently manage their tasks. Us
   - **Deadline** (urgent tasks first)
   - **Status** (e.g., show only non-complete or in-progress tasks)
 
-**Screenshot:**
-![Search & Filter](./screenshots/search_filter.png)
+![image](https://github.com/user-attachments/assets/4b10e0ec-b60b-401d-b296-72b23c0bc66f)
+
+
+
 
 ## Installation & Setup
 
